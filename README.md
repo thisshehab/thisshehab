@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehab Mohammed</h1>
-<h3 align="center">Flutter developer, Cyber Security student</h3>
+<h3 align="center">Flutter developer</h3>
 <img align="right" style="width:50%;"src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 - 🔭 I’m currently working on [Digital Care](https://github.com/DigitalCareSystem/Digital-Care-System.git)
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 💬 Ask me about **Flutter, Networking**
+- 💬 Ask me about **Flutter, Networking, Firebase, PHP and C#**
 
 - 📫 How to reach me **shehabalhaye3@gmail.com**
 
