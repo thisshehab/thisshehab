@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working at Creative Point
 
-- 🌱 I’m currently learning **Penetration Testing**
-
 - 💬 Ask me about **Web Pentesting, Networking Pentesting, Phone Pentesting#**
 
 - 📫 How to reach me **shehabalhaye3@gmail.com**
