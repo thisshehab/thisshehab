@@ -2,15 +2,14 @@
 <h3 align="center">🧱 Android & Web Penetration tester</h3> 
 <img align="right" style="width:50%;"src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
-- 🔭 I’m currently working on [Digital Care](https://github.com/DigitalCareSystem/Digital-Care-System.git)
+- 🔭 I’m currently working at Creative Point
 
-- 🌱 I’m currently learning **Rive animation with flutter**
+- 🌱 I’m currently learning **Penetration Testing**
 
-- 💬 Ask me about **Flutter, Networking, Firebase, PHP and C#**
+- 💬 Ask me about **Web Pentesting, Networking Pentesting, Phone Pentesting#**
 
 - 📫 How to reach me **shehabalhaye3@gmail.com**
 
-- ⚡ Fun fact **I Can Animate Your life with flutter !**
 <h3 align="left">Freelancing accounts:</h3>
 <a href="https://www.upwork.com/freelancers/~01d7b0ad8690f74051" target="blank"> <img align="center" width=150 style="max-height:10%;"src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-1.png"> </a>
 <h3 align="left">Connect with me:</h3>
