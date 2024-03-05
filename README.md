@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Pentesting, Networking Pentesting, Phone Pentesting#**
 
-- 📫 How to reach me **shhabo@ieee.org**
+- 📫 How to reach me **shehabo@ieee.org**
 
 <h3 align="left">Freelancing accounts:</h3>
 <a href="https://www.upwork.com/freelancers/~01d7b0ad8690f74051" target="blank"> <img align="center" width=150 style="max-height:10%;"src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-1.png"> </a>
